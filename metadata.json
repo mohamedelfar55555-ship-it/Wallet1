@@ -1,0 +1,6 @@
+{
+  "name": "Vodafone Cash – Wallet Simulation (DEMO)",
+  "description": "Educational simulation of a mobile-first Vodafone Cash digital wallet module with local persistence, simulated transfers, ATM/agent cash operations, and transaction management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
